@@ -1,3 +1,3 @@
 # BuenosAiresCatering
 
-hecho por alumnos del inspt
+Trabajo práctico para el INSPT
